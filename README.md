@@ -8,6 +8,3 @@ Use:
 Use "+" to add 1 to the counter,
 Use "-" to remove 1 from the counter,
 use "--" to clear the counter,
-
-
-(This Counter cant go below 0)
